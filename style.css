@@ -1,0 +1,39 @@
+body{
+    background-image: url(hearts.png);
+}
+header{
+    padding: 2em;
+    background-color: hsl(320, 100%, 85%);
+    margin-top: 2em;
+    text-align: center;
+    color: black;
+}
+.quote{
+    font-size: 2em;
+    text-align: center;
+}
+/* .quote card-body center{
+    text-align: center;
+}
+.newQuoteSection{
+    text-align: center;
+} */
+.btn-large{
+    margin: 0.5em;
+}
+.card{
+    text-align: center;
+    width: 45em;
+    text-align: 20px;
+    background-color: #ffddf9;
+    
+}
+
+.new-quote-button{
+    background-color: violet;
+    border-color: pink;
+    text-align: center;
+}
+#button:hover{
+    background-color: white;
+}
